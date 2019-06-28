@@ -44,18 +44,16 @@ and American Archaeology</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(28).pdf" style="text-decoration:none;">The Urban Archeology Corps</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(29).pdf" style="text-decoration:none;">Archeology, History And Architecture
-Of Medieval Ustrushana</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(30).pdf" style="text-decoration:none;">FIRST LIFE: Discovering the Connections between Stars, Cells, and How Life Began</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(29).pdf" style="text-decoration:none;">Archeology, History And Architecture Of Medieval Ustrushana</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(30).pdf" style="text-decoration:none;">Heavy Stable Isotope Investigations in
+Environmental Science and Archeology</a></b></li>
                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(31).pdf" style="text-decoration:none;">PLANET FORMATION: Theory, Observations, and Experiments</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(32).pdf" style="text-decoration:none;">The New Astronomy: Opening The Electromagnetic Window
-And Expanding Our View Of Planet Earth</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(33).pdf" style="text-decoration:none;">Advances in Astrobiology and Biogeophysics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(31).pdf" style="text-decoration:none;">The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(32).rar" style="text-decoration:none;">The Middle and Upper
+Paleolithic Archeology of the Levant and Beyond</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(33).pdf" style="text-decoration:none;">Archaeology Essentials: Theories, Methods, and Practice</a></b></li>
  
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(34).pdf" style="text-decoration:none;">Astrobiology: An Evolutionary Approach</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(35).pdf" style="text-decoration:none;">Rare Earth: Why Complex Life is Uncommon in the Universe</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(36).pdf" style="text-decoration:none;">The Search for Extraterrestrial Life</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(37).pdf" style="text-decoration:none;">Caught in the Act of Formation: Amino Acids and the Asymmetry of Life</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Astrobiology-Books/blob/master/asb(34).pdf" style="text-decoration:none;">The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World</a></b></li>
+                                                             
 </ul>
